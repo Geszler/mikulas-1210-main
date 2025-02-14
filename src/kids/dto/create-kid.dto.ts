@@ -4,7 +4,7 @@ export class CreateKidDto {
  /**
    * The URL of the new kid
    * 
-   * @example John Lee
+   * @example Kiss István
    */
   @IsString()
   @IsNotEmpty()
@@ -13,7 +13,7 @@ export class CreateKidDto {
    /**
    * The address of the kid
    * 
-   * @example 1201 Busapest Vörösmarty u 12
+   * @example 2146 Moygoród Kossuth utca 15
    */
 
   @IsString()

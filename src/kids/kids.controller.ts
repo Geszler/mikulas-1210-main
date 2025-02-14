@@ -23,10 +23,10 @@ export class KidsController {
     type:Kid,
     example: {
       id:1,
-      name:"Jhon Lee",
-      address:'1201 Budapest, Vörösmarty utca 12',
+      name:"Kiss István",
+      address:'2146 Mogyoród, Kossuth utca 13',
       wasGood: true,
-      wantedToy: 'BasketBall'
+      wantedToy: 'Mobilephone'
     }
   })
 
